@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-readme-stats.vercel.app/api?username=YurinDoctrine&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&layout=compact
+https://github-readme-stats.vercel.app/api/top-langs/?username=YurinDoctrine&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&layout=compact
+https://github-profile-trophy.vercel.app/?username=YurinDoctrine&theme=nord 
