@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/YurinDoctrine">
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=YurinDoctrine&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&layout=compact" />
 </a>
+
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurinDoctrine&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&layout=compact" />
 </a>
-<a href="https://github.com/YurinDoctrine">
+
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=YurinDoctrine&theme=nord " /></a>
 </a>
 </p>
