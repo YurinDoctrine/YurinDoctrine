@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurinDoctrine&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&layout=compact" />
 </a>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R0AGV29)
+<a href="https://www.buymeacoffee.com/yurindoctrine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
