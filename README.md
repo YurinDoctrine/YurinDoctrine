@@ -4,11 +4,10 @@
  👋
 
  Show some ❤️ doing starring the repos!
-</h3>
-
-<p align="center">
+ 
+ And also
 <img height="25" src="https://img.shields.io/github/followers/yurindoctrine?label=Follow me&style=social">
-</p>
+</h3>
 
 <p align="center">
 <img height="50" src="https://readme-typing-svg.herokuapp.com?color=%ffffff&center=true&vCenter=true&width=500&lines=Over+5+years+of+programming+experience;Always+into+stuff;Harder,+better,+faster,+stronger+:)">
