@@ -3,9 +3,7 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=yurindoctrine.yurindoctrine" alt="visitors"/>
  👋
 
- Show some ❤️ doing starring the repos!
- 
- And also
+ Show some ❤️ doing starring the repos! Also
 <img height="25" src="https://img.shields.io/github/followers/yurindoctrine?label=Follow me&style=social">
 </h3>
 
