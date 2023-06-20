@@ -4,7 +4,7 @@
  <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="25" height="25" />
 
  Show some <img align=center src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/heart.gif" alt="Beating Heart" width="25" height="25" /> 
- doing starring the repos! Also don't forget to <img align=center height="25" src="https://img.shields.io/github/followers/yurindoctrine?label=Follow me&style=social">
+ doing starring the repos! Also don't forget to <img align=center src="https://img.shields.io/github/followers/yurindoctrine?label=Follow me&style=social">
 </h3>
 
 <p align="center">
