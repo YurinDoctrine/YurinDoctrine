@@ -9,10 +9,6 @@
 </h3>
 
 <p align="center">
-<img height="50" src="https://readme-typing-svg.herokuapp.com?color=%ffffff&center=true&vCenter=true&width=500&lines=Over+5+years+of+programming+experience;Always+into+stuff;Harder,+Better,+Faster,+Stronger">
-</p>
-
-<p align="center">
 <img height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yurindoctrine&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </p>
 
